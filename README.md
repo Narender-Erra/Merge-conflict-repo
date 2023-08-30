@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # merge-conflict-repo
-b
+=======
+#merge-conflict-repo
+>>>>>>> feature/branchname
+
